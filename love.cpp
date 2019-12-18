@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<'Third: I love you!'<<endl;
+    cout<<'four: I love you!'<<endl;
     return 0;
 } 
 
